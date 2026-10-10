@@ -1,0 +1,23 @@
+{
+  "name": "TAXI ROS · Porteadores Jacó",
+  "short_name": "TAXI ROS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#EFF4F1",
+  "theme_color": "#0E1A1A",
+  "description": "Solicitud, despacho y seguimiento de taxi en Jacó y Herradura.",
+  "icons": [
+    {
+      "src": "./porteadores-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./porteadores-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
